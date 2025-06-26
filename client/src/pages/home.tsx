@@ -212,7 +212,7 @@ export default function Home() {
               <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center">
                 <Phone className="h-4 w-4 text-white" />
               </div>
-              <h1 className="text-xl font-semibold text-gray-900">VoiceConnect | By Shepherd Zisper Phiri</h1>
+              <h1 className="text-xl font-semibold text-gray-900">Z-Talk | By Shepherd Zisper Phiri</h1>
             </div>
             <div className="flex items-center space-x-2">
               <div className="flex items-center space-x-2 text-sm">
